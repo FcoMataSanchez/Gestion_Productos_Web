@@ -11,8 +11,8 @@ public class ConfiguracioConnexio {
     private boolean esOberta = false;
 
     public ConfiguracioConnexio() {
-        //cadenaConnexio = "jdbc:oracle:thin:@192.168.180.10:1521:INSLAFERRERI";
-        cadenaConnexio = "jdbc:oracle:thin:@ieslaferreria.xtec.cat:8081:INSLAFERRERI";
+        //cadenaConnexio = "*****************";
+        cadenaConnexio = "*******************";
         usuari = "fmata";
         contrasenya = "1234";
     }
